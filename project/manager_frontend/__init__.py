@@ -1,0 +1,3 @@
+"""
+RHGamestation manager frontend
+"""
